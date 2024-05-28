@@ -1,0 +1,7 @@
+.tablecomponent {
+    width: 100%;
+}
+.tablecomponent > table > thead > tr > th {
+    width: 100%;
+    color: white;
+}

@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px 24px 16px 24px;
+    border-bottom: 1px solid rgb(37, 41, 48);
+    background-color: transparent;
+}
+.header > p {
+    margin: 0;
+    padding: 0;
+    color: #F0B90B;
+    font-size: 22px;
+    font-weight: 600;
+}
